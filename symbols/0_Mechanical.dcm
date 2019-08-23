@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Wire_Hole_1mm
+D 1mm diameter holes for soldering wire to the board
+$ENDCMP
+#
+#End Doc Library
