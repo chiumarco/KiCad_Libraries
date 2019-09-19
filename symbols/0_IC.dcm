@@ -16,6 +16,12 @@ $CMP MAX680CSA+
 D IC REG CHARGE PUMP 2VIN 8SOIC
 $ENDCMP
 #
+$CMP MCP9701AT
+D Analog thermistor temperature sensor, ±4C accuracy, -40C to +125C, SOT-23-3
+K temperature sensor thermistor
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21942e.pdf
+$ENDCMP
+#
 $CMP STBC08
 D IC BATT CHRGR LI-ION 800MA DFN6
 K charger
